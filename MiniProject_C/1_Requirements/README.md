@@ -35,3 +35,7 @@ and can check attandance , salary , contact details ,address and Etc
     * Search a Employe
     * View Employe Detail
     * Update Username and Password
+     
+ ## Tools used 
+    * Excel
+    * WPS Office
