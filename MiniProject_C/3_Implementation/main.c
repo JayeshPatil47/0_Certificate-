@@ -164,6 +164,7 @@ int main()
             fclose(fp);  /// close the file
             exit(0); /// exit from the program
         }
+        
     }
     return 0;
 }
