@@ -1,4 +1,4 @@
-# 265151_lttsproject
+# Employee Record Sysyem
 This is the repo for Stepin mini  project program.
 
 | Build | Git Inspector | Code Quality |  Codeacy  |
